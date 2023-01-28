@@ -195,3 +195,73 @@ span {
     letter-spacing: 0.02em;
      color: #E7E9FC;
 }
+
+.portfolio {}
+
+.portfolio-btn-isually-hidden {
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    border: 0;
+    padding: 0;
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    margin: -1px;
+}
+
+.portfolio-btn-isually-hidden {}
+
+.portfolio-btn-first {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: calc(24/16);
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+}
+.portfolio-btn-first :hover {
+    background-color: #404BBF;
+}
+
+.portfolio-btn-rest {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: calc(24/16);
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #4D5AE5;
+}
+
+.portfolio-btn-rest :hover{
+    background: #F4F4FD;
+}
+
+.portfolio-list {}
+
+.portfolio-link{}
+
+.portfolio-item {}
+
+.portfolio-img {}
+
+.portfolio-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: calc(24/20);
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.portfolio-subtitle {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: calc(24/16);
+    letter-spacing: 0.02em;
+    color: #434455;
+}
