@@ -13,9 +13,10 @@ body {
     clip-path: inset(50%);
     margin: -1px;
 }
-.nav-link:hover,
-.nav-link:focus,
-.nav-link.current {
+.header-item:hover,
+.header-item:focus,
+.header-item.current {
+    color: #404BBF;
     
 }
 span {
