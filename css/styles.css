@@ -72,6 +72,9 @@ span {
     letter-spacing: 0.02em;
      color: #434455;
 }
+.header-mail:hover {
+    color: #404BBF;
+}
 
 .header-tel {
     font-style: normal;
@@ -93,6 +96,7 @@ span {
     text-align: center;
     letter-spacing: 0.02em;
      color: #FFFFFF;
+     
 }
 
 .heading-bnt {
@@ -104,6 +108,10 @@ span {
     display: flex;
     align-items: center;
     letter-spacing: 0.04em;
+    background: #4D5AE5;
+}
+.heading-bnt:hover  {
+    background: #404BBF;
 }
 .features {}
 
